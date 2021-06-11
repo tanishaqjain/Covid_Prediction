@@ -1,2 +1,2 @@
 # Covid_Prediction
-Link for covid dataset - : http://cb.lk/covid_19
+Link for dataset - : http://cb.lk/covid_19
